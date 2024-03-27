@@ -24,11 +24,9 @@ $ go mod tidy
 $ go run .
 ```
 
-> You're blessed, Gideon!
-
 ## Documentation
 
-https://docs.yugabyte.com/preview/sample-data/northwind/
+> Visit https://docs.yugabyte.com/preview/sample-data/northwind/
 
 ![Screenshot](https://docs.yugabyte.com/images/sample-data/northwind/northwind-er-diagram.png)
 
