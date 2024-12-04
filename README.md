@@ -1,4 +1,4 @@
-# Drygin
+# Drygin API
 
 Microsoft Northwind Database REST API w/Golang + Gin
 
